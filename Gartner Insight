@@ -1,0 +1,20 @@
+Microservices is a tightly scoped, strong encapsulated, and loosely coupled application component. Companies instead of rewriting all of the code, they can fix the parts
+that causes problems like bottleneck.
+Microservices best afford is agility. 
+The overarching principle governing MSA is independence. 
+New features can be deployed as soon as they are ready instead of waiting for the next batch.
+Miniservices are like microservices but they have a larger scope. Miniservice implements more than one feature.
+Macroservices is more like the monolithic application approach.
+Microservice refers to a complex architectural paradigm that developers use to build new applications or to rearchitect existing applications.
+MSA is particularly beneficial to organization that are building a CD practice and to roganizations that have applications with extreme scalability requirements
+Microservice is costly because it can disrupt the old systme if people are not willing to change.
+
+Blog:
+What I found interesting was that many companies want to switch to MSA but are doing it wrong. When using MSA (Microservices Architecture) inappropriately, the result of 
+the application may perform poorly because companies are using MSA wrong. The texts says that many organization that say that they are using MSA are not really using MSA
+instead they are using a combination of miniservices and macroservices and that is why MSA is not working for them. Garner also says that many organization are not willing
+to fully accept the paradigm and the cultural disruption that goes with commiting to MSA and that companies are abadning their MSA investment because of high cost, projects delays,
+and unmet expectations.
+
+MSA architectural paradigm is significantly different from the traditional practices and it requires advance architecture skills, mature agile processes and robust DevOps 
+automation. MSA also requires new application infrastructure that will impact operation reams.
